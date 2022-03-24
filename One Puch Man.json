@@ -1,8 +1,8 @@
 {
   "title": "One Puch Man",
-  "description": "",
-  "artist": "",
-  "author": "",
+  "description": "Lest test",
+  "artist": "Allan",
+  "author": "Righi",
   "cover": "https://unionleitor.top/leitor/One_Punch-Man/128",
   "chapters": {
     "128": {
@@ -10,10 +10,7 @@
       "volume": "1",
       "last_updated": "1648089194",
       "groups": {
-        "": [
-          "https://imgur.com/JNXJZ2M",
-          "https://imgur.com/ZD0wcmy"
-        ]
+        "": "https://imgur.com/JNXJZ2M\nhttps://imgur.com/ZD0wcmy"
       }
     }
   }
