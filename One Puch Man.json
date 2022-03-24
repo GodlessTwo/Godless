@@ -4,5 +4,17 @@
   "artist": "",
   "author": "",
   "cover": "https://unionleitor.top/leitor/One_Punch-Man/128",
-  "chapters": {}
+  "chapters": {
+    "128": {
+      "title": "128",
+      "volume": "1",
+      "last_updated": "1648089194",
+      "groups": {
+        "": [
+          "https://imgur.com/JNXJZ2M",
+          "https://imgur.com/ZD0wcmy"
+        ]
+      }
+    }
+  }
 }
